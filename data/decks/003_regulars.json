@@ -572,6 +572,10 @@
         {
             "text": "_______ does not exist.",
             "pick": 1
+        },
+        {
+            "text": "Rainbow Dash Presents: ________"
+            "pick": 1
         }
     ],
     "whiteCards": [
@@ -971,6 +975,8 @@
         "Me love you long time.",
         "A bigger blacker Cards Against Equestria.",
         "Vig Rickman.",
-        "Reload the page."
+        "Reload the page.",
+        "Rarity's Socks",
+        "My Salsa"
     ]
 }
